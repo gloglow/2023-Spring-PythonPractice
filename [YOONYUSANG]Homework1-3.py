@@ -1,0 +1,14 @@
+x=int(input())
+rnew=x
+r1=rnew
+r2=x/r1
+rnew=(r1+r2)/2
+print(rnew)
+r1=rnew
+r2=x/r1
+rnew=(r1+r2)/2
+print(rnew)2
+r1=rnew
+r2=x/r1
+rnew=(r1+r2)/2
+print(rnew)
